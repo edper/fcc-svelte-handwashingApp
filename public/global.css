@@ -17,6 +17,6 @@ button {
     cursor: pointer;
 }
 
-.sr-only {
+sr-only {
     display:none;
 }
